@@ -10,4 +10,10 @@ This is a project about understanding the fundamentals of Vagrant and running a 
 
 <h4>Directories:</h4>
 
-* [0x00 - Vagrant](./0x00-vagrant)
+* [0x00-vagrant - Vagrant](./0x00-vagrant)
+
+
+<h4>Files:</h4>
+
+* [0-hello_ubuntu - Hello_Ubuntu](0-hello_ubuntu)
+
