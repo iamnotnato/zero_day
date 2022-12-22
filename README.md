@@ -15,6 +15,13 @@ This is a project about understanding the fundamentals of Vagrant and running a 
   </tr>
 </table>
 
+<h4>Integrated Development Environment:</h4>
+<table>
+  <tr>
+<td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
+  </tr>
+</table>
+
 <h4>Directories:</h4>
 
 * [0x00-vagrant - Vagrant](./0x00-vagrant)
